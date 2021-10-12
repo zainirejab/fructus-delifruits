@@ -2,7 +2,7 @@
 //  FruitCardView.swift
 //  Fructus
 //
-//  Created by Bismillah on 24.9.2021.
+//  Created by zainirejab in 2021.
 //
 
 import SwiftUI
